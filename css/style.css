@@ -1,0 +1,43 @@
+.text-blue{
+    color:blue;
+}
+
+.text-burlywood{
+    color: burlywood;
+}
+
+.text-italic{
+    font-style: italic;
+}
+
+.font-times{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.fs-15{
+    font-size: 15px;
+}
+
+.fs-20{
+    font-size: 20px;
+}
+
+.fs-30{
+    font-size: 30px;
+}
+
+.center{
+    text-align: center;
+}
+
+h2{
+    color:burlywood
+}
+
+ol,ul{
+    list-style-position: inside
+}
+
+ol{
+    font-weight: bold;
+}
